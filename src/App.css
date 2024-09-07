@@ -1,0 +1,8 @@
+.posts {
+  display: flex;
+  flex-wrap: wrap;
+}
+.posts > * {
+  width: 250px;
+  height: max-content;
+}
