@@ -609,4 +609,4 @@ export const data = [
   },
 ]
 
-export type Post = (typeof data)[0]
+export type PostType = (typeof data)[0]
